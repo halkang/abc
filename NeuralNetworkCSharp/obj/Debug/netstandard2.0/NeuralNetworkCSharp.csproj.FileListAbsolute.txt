@@ -1,0 +1,9 @@
+C:\abc\NeuralNetworkCSharp\obj\Debug\netstandard2.0\NeuralNetworkCSharp.AssemblyInfoInputs.cache
+C:\abc\NeuralNetworkCSharp\obj\Debug\netstandard2.0\NeuralNetworkCSharp.AssemblyInfo.cs
+C:\abc\NeuralNetworkCSharp\obj\Debug\netstandard2.0\NeuralNetworkCSharp.csproj.CoreCompileInputs.cache
+C:\abc\NeuralNetworkCSharp\bin\Debug\netstandard2.0\NeuralNetworkCSharp.deps.json
+C:\abc\NeuralNetworkCSharp\bin\Debug\netstandard2.0\NeuralNetworkCSharp.dll
+C:\abc\NeuralNetworkCSharp\bin\Debug\netstandard2.0\NeuralNetworkCSharp.pdb
+C:\abc\NeuralNetworkCSharp\obj\Debug\netstandard2.0\NeuralNetworkCSharp.dll
+C:\abc\NeuralNetworkCSharp\obj\Debug\netstandard2.0\NeuralNetworkCSharp.pdb
+C:\abc\NeuralNetworkCSharp\obj\Debug\netstandard2.0\NeuralNetworkCSharp.csprojAssemblyReference.cache
